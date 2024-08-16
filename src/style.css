@@ -1,1 +1,12 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+    text-align:center;
+    font-family: "Roboto" !important;
+  }
+h1 {
+    padding-top: 300px;
+    width:50%;
+    margin:auto;
+  }
+#excuse {
+    padding-top: 50px;
+  }
